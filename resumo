@@ -1,0 +1,11 @@
+Testes realizados para os objetos p1 e p2:
+
+p1 ("Oferta do dia"):
+
+O preço foi alterado de 50 para 40.
+Houve uma redução no preço, portanto o resultado foi True indicando que o preço abaixou.
+p2 ("Oferta da semana"):
+
+A quantidade foi alterada para 100.
+Existe quantidade suficiente para a venda.
+O valor total da venda seria de 6000 (100 unidades a 60 cada).
